@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jade Insurance</string>
+    <string name="app_logo">Jade Insurance Logo</string>
+    <string name="country_of_business">Country of business</string>
+    <string name="select_insurance_type">Select insurance type</string>
+    <string name="jewelry_gold">Jewellery &amp; Gold</string>
+    <string name="diamond_stones">Diamond &amp; Precious Stones</string>
+    <string name="money_services">Money Services</string>
+    <string name="luxury_watches">Luxury Watches</string>
+    <string name="pawnbrokers">Pawnbrokers</string>
+    <string name="jewelry_gold_icon">Jewelry and Gold Icon</string>
+    <string name="diamond_stones_icon">Diamond and Precious Stones Icon</string>
+    <string name="money_services_icon">Money Services Icon</string>
+    <string name="luxury_watches_icon">Luxury Watches Icon</string>
+    <string name="pawnbrokers_icon">Pawnbrokers Icon</string>
+</resources>
